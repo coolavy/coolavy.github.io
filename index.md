@@ -11,4 +11,4 @@ My name is Avyan Gupta, and I'm a highschool student curious about robotics and 
 
 ## Highlighted Work
 
-* **[Custom CAN Isolation Board](/projects/can-distribution-hub/)**: A development for FRC that allows CAN to be wired directly to one board instead of daisy-chained.
+* **[CAN Distribution Hub](/projects/can-distribution-hub/)**: A development for FRC that allows CAN to be wired directly to one board instead of daisy-chained.
