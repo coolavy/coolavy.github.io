@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "CAN Distribution-Hub"
+title: "CAN Distribution Hub"
 permalink: /projects/can-distribution-hub/
 author_profile: true
 ---
