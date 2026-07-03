@@ -1,0 +1,8 @@
+title: Avyan Gupta | Portfolio
+description: Engineering, programming, and hardware project log.
+
+# This tells GitHub to use a clean, documentation/project-style theme
+remote_theme: just-the-docs/just-the-docs
+
+# Essential settings for the theme
+color_scheme: dark # Options: light, dark, or system
