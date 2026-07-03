@@ -7,6 +7,16 @@ url: "https://coolavy.github.io"
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "dark"
 
+# Author Details
+author:
+  name: "Avyan Gupta"
+  bio: "High School Student & Robotics Specialist"
+  avatar: "https://github.com/coolavy.png" # Pulls your profile picture automatically
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/coolavy"
+
 # Plugins
 plugins:
   - jekyll-include-cache
