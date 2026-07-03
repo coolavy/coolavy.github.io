@@ -7,4 +7,4 @@ docs:
   - title: "Projects"
     children:
       - title: "CAN Distribution Hub"
-        url: "/projects/can-isolation/"
+        url: "/projects/can-distribution-hub/"
