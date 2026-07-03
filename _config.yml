@@ -1,8 +1,24 @@
-title: Avyan Gupta | Portfolio
-description: Engineering, programming, and hardware project log.
+# Site Settings
+title: "Portfolio"
+name: "Avyan Gupta"
+description: "Hardware & Software Engineering Portfolio"
+url: "https://coolavy.github.io"
 
-# This tells GitHub to use a clean, documentation/project-style theme
-remote_theme: just-the-docs/just-the-docs
+# Theme Configuration
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "dark" # Theme skin. Options: dark, contrast, aqua, neon
 
-# Essential settings for the theme
-color_scheme: dark # Options: light, dark, or system
+# Plugins required by the theme
+plugins:
+  - jekyll-include-cache
+
+# Defaults for pages
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "single"
+      author_profile: true # Shows a professional profile sidebar on the left
+      sidebar:
+        nav: "docs"
