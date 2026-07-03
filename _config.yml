@@ -1,16 +1,11 @@
 # Site Settings
-title: "Portfolio"
-name: "Avyan Gupta"
-description: "Hardware & Software Engineering Portfolio"
+title: "Avyan Gupta Portfolio"
+description: "Electrical & Software Engineering Portfolio"
 url: "https://coolavy.github.io"
 
 # Theme Configuration
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin: "dark" # Theme skin. Options: dark, contrast, aqua, neon
-
-# Plugins required by the theme
-plugins:
-  - jekyll-include-cache
+theme: "jekyll-theme-minimal-mistakes"
+minimal_mistakes_skin: "dark"
 
 # Defaults for pages
 defaults:
@@ -19,6 +14,4 @@ defaults:
       type: "pages"
     values:
       layout: "single"
-      author_profile: true # Shows a professional profile sidebar on the left
-      sidebar:
-        nav: "docs"
+      author_profile: true
