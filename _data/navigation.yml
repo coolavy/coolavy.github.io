@@ -1,0 +1,10 @@
+# Left sidebar navigation links
+docs:
+  - title: "Overview"
+    children:
+      - title: "Home"
+        url: "/"
+  - title: "Projects"
+    children:
+      - title: "CAN Distribution Hub"
+        url: "/projects/can-isolation/"
