@@ -4,8 +4,13 @@ description: "Electrical & Software Engineering Portfolio"
 url: "https://coolavy.github.io"
 
 # Theme Configuration
-theme: "jekyll-theme-minimal-mistakes"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "dark"
+
+# Plugins
+plugins:
+  - jekyll-include-cache
+  - jekyll-remote-theme
 
 # Defaults for pages
 defaults:
