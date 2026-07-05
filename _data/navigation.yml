@@ -1,12 +1,12 @@
 # Left sidebar navigation links
 docs:
-  - title: "Overview"
+  - title: "Navigation"
     children:
       - title: "Home"
         url: "/"
-      - title: "Projects"
-        children:
-          - title: "CAN Distribution Hub"
-            url: "/projects/can-distribution-hub/"
       - title: "About Me"
-        url: "/about-me.md"
+        url: "/about/"
+  - title: "Projects"
+    children:
+      - title: "CAN Distribution Hub"
+        url: "/projects/can-distribution-hub/"
