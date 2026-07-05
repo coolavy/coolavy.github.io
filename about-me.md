@@ -1,3 +1,10 @@
+---
+layout: single
+title: "About Me"
+permalink: /about-me.md
+author_profile: true
+---
+
 # About Me
 
 My name is Avyan Gupta and I'm a rising sophmore. I enjoy learning about mathematics, electrical engineering, and robotics. Specifically, I enjoy creating PCBs and integrating them into robots.
