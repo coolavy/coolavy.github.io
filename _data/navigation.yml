@@ -4,7 +4,9 @@ docs:
     children:
       - title: "Home"
         url: "/"
-  - title: "Projects"
-    children:
-      - title: "CAN Distribution Hub"
-        url: "/projects/can-distribution-hub/"
+      - title: "Projects"
+        children:
+          - title: "CAN Distribution Hub"
+            url: "/projects/can-distribution-hub/"
+      - title: "About Me"
+        url: "/about-me.md"
