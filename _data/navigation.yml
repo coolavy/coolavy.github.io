@@ -10,3 +10,5 @@ docs:
     children:
       - title: "CAN Distribution Hub"
         url: "/projects/can-distribution-hub/"
+      - title: "FIFA World Cup STEM Kit"
+        url: "/projects/world-cup-stem-kit/"
