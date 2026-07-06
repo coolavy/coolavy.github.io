@@ -12,4 +12,4 @@ I did some research and found out that FRC Team 118, the Robonauts, have done so
 
 <img width="359" height="160" alt="Screenshot 2026-07-05 154238" src="https://github.com/user-attachments/assets/44db4d83-d175-4c3e-813b-b8aba5cf6882" />
 
-<small>*Robonauts CAN Node*</small>
+<small markdown="1">*Robonauts CAN Node*</small>
