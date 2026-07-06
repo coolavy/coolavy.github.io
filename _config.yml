@@ -1,6 +1,6 @@
 # Site Settings
 title: "Avyan Gupta Portfolio"
-description: "Electrical & Software Engineering Portfolio"
+description: "Electrical & Software Engineering Projects"
 url: "https://coolavy.github.io"
 
 # Theme Configuration
@@ -10,7 +10,7 @@ minimal_mistakes_skin: "dark"
 # Author Details
 author:
   name: "Avyan Gupta"
-  bio: "High School Student & Robotics Specialist"
+  bio: "High School Student & Robotics Enthusiast"
   avatar: "https://github.com/coolavy.png" # Pulls your profile picture automatically
   links:
     - label: "GitHub"
