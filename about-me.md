@@ -13,4 +13,4 @@ My name is Avyan Gupta and I'm a rising sophomore. I enjoy learning about mathem
 1. **USACO Platinum** (2025)
 2. **USAMTS Honorable Mention** (2026)
 3. **FRC Lead Electrical Specialist** (Team 9015)
-4. **FRC Lead Programmer**
+4. **FRC Programmer** (Team 9015)
